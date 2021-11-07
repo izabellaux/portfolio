@@ -12,9 +12,6 @@
 		<loc>https://izzybialkowska.com/articles.html</loc>
 	</url>
 	<url>
-		<loc>https://izzybialkowska.com/page4.html</loc>
-	</url>
-	<url>
 		<loc>https://izzybialkowska.com/projects-nda.html</loc>
 	</url>
 	<url>
@@ -25,5 +22,8 @@
 	</url>
 	<url>
 		<loc>https://izzybialkowska.com/kamatokarska.html</loc>
+	</url>
+	<url>
+		<loc>https://izzybialkowska.com/contact.html</loc>
 	</url>
 </urlset>
