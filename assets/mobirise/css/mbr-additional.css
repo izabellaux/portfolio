@@ -6725,20 +6725,44 @@ a {
     left: -1rem;
   }
 }
-.cid-sPIZWG1L8r {
-  background-image: url("../../../assets/images/background01.png");
+.cid-sPMJpSeWN9 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
 }
-.cid-sPIZWG1L8r .mbr-text,
-.cid-sPIZWG1L8r .mbr-section-btn {
-  text-align: center;
-  color: #353535;
+.cid-sPMJpSeWN9 .row {
+  flex-direction: row-reverse;
 }
-.cid-sPIZWG1L8r .mbr-section-title {
-  text-align: center;
+@media (max-width: 991px) {
+  .cid-sPMJpSeWN9 .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sPMJpSeWN9 .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+@media (min-width: 992px) {
+  .cid-sPMJpSeWN9 .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-sPMJpSeWN9 .text-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sPMJpSeWN9 .mbr-section-title {
+  color: #121212;
+}
+.cid-sPMJpSeWN9 .mbr-text,
+.cid-sPMJpSeWN9 .mbr-section-btn {
+  color: #bbbbbb;
+  text-align: left;
 }
 .cid-sPMBzQUXhC {
-  padding-top: 8rem;
-  padding-bottom: 8rem;
+  padding-top: 1rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
 }
 .cid-sPMBzQUXhC .nav-tabs .nav-item.open .nav-link:focus,
@@ -6781,14 +6805,6 @@ a {
 }
 .cid-sPMBzQUXhC H3 {
   text-align: center;
-}
-.cid-sPMyFUvFev {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #fafafa;
-}
-.cid-sPMyFUvFev .mbr-text {
-  color: #c1c1c1;
 }
 .cid-sMvURDFjCh {
   padding-top: 5rem;
